@@ -1,4 +1,1 @@
-El mejor juego del mundoooooo
-
-
-Ole Ole
+# Hacer aquí las clases de los asteroides
