@@ -1,4 +1,1 @@
-El mejor juego del mundoooooo
-
-
-Ole Ole
+# Hacer aquí la lógica de shoot cuando clicas en el botón
